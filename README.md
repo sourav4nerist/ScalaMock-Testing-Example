@@ -1,0 +1,1 @@
+# ScalaMock-Testing-Example
