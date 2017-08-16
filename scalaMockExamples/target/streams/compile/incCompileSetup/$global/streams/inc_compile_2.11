@@ -1,0 +1,359 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\workspace\scalaMockExamples\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass$.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry$.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult$.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player$.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\gameplay\MatchResultObserver.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\CountryLearderBoard.class
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\PlayerDatabase.class
+binary dependencies:
+14 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+10 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> com.tavant.caseClass.baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> com.tavant.caseClass.baseCaseClass$
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> com.tavant.caseClass.CountryLeaderboardEntry
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> com.tavant.caseClass.CountryLeaderboardEntry$
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> com.tavant.caseClass.Matchresult
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> com.tavant.caseClass.Matchresult$
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> com.tavant.caseClass.Player
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> com.tavant.caseClass.Player$
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> com.tavant.gameplay.MatchResultObserver
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> com.tavant.traits.CountryLearderBoard
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> com.tavant.traits.PlayerDatabase
+used names:
+202 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> <init>
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> Object
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> &&
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> <init>
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> ==
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> A
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> AbstractFunction2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Any
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Boolean
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> CountryLeaderboardEntry
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> IndexOutOfBoundsException
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Iterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> None
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Nothing
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Object
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Product
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> ScalaRunTime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Serializable
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Some
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Statics
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> T
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> T0
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> T1
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> T2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> Tuple2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> _toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> anyHash
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> asInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> eq
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> finalizeHash
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> isInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> mix
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> package
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> points
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> runtime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> typedProductIterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> ||
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> &&
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> <init>
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> ==
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> A
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> AbstractFunction2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Any
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Boolean
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> IndexOutOfBoundsException
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Iterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Matchresult
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> None
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Nothing
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Object
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> PlayerId
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Product
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> ScalaRunTime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Serializable
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Some
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Statics
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> T
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> T0
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> T1
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> T2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> Tuple2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> _toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> asInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> eq
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> finalizeHash
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> isInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> loser
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> mix
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> package
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> runtime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> typedProductIterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> winner
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> ||
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> &&
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> <init>
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> ==
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> A
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> AbstractFunction3
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Any
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Boolean
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> IndexOutOfBoundsException
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Iterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> None
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Nothing
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Object
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Player
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> PlayerId
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Product
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> ScalaRunTime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Serializable
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Some
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Statics
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> T
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> T0
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> T1
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> T2
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> T3
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> Tuple3
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> _toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> anyHash
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> asInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> eq
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> finalizeHash
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> isInstanceOf
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> mix
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> nickName
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> package
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> playerId
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> runtime
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> toString
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> typedProductIterator
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> ||
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> <init>
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> CountryLearderBoard
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> MatchResultObserver
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Matchresult
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Object
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Player
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> PlayerDatabase
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> PlayerId
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> addVictoryForCountry
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> baseCaseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> country
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> countryLeaderBoard
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> gameplay
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> getPlayerById
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> player
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> playerDatabase
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> result
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> traits
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> winner
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> CountryLeaderboardEntry
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> List
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> Predef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> String
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> package
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> traits
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> AnyRef
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> Int
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> Player
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> caseClass
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> com
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> scala
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> tavant
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> traits
+product stamps:
+11 items
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass$.class -> lastModified(1502867962808)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass.class -> lastModified(1502867962803)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry$.class -> lastModified(1502867962706)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry.class -> lastModified(1502867962748)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult$.class -> lastModified(1502867962756)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult.class -> lastModified(1502867962771)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player$.class -> lastModified(1502867962798)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player.class -> lastModified(1502867962788)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\gameplay\MatchResultObserver.class -> lastModified(1502867962819)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\CountryLearderBoard.class -> lastModified(1502867962821)
+D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\PlayerDatabase.class -> lastModified(1502867962826)
+source stamps:
+7 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> hash(1cd58376303f9de4c68b0a45d8be2f998665dd81)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> hash(aafa0db9ca98d864b6e8f31b953d195349dd8522)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> hash(a8c6452d5f08ba47a43f5bb7c17da4b610a8727a)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> hash(7b657792b9663e634304c35c656e10bf6ec104b1)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> hash(c304ce0f99e3346712374dc2c7882fff9e15e829)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> hash(75b5585a4e7ffd0ad2871824655428d9406aea58)
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> hash(e672fdd2ea9d0a42b9c79220b78ab608c9182b09)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1479477386693)
+C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Int
+internal apis:
+7 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2L4HNAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxdQmyXQABm5vdGlmeXNxAH4ADJbkzpd0AAR3YWl0c3EAfgAMiTzHZnQADSRhc0luc3RhbmNlT2ZzcQB+AAxqH9ARdAAGZXF1YWxzc3EAfgAMAmEp13QAB0NvdW50cnlzcQB+AAy4grLldAAMYXNJbnN0YW5jZU9mc3EAfgAMXeLvjnQADHN5bmNocm9uaXplZHNxAH4ADEoCEU10AA0kaXNJbnN0YW5jZU9mc3EAfgAM/BoMSHQACW5vdGlmeUFsbHNxAH4ADKLr2Yl0AAxpc0luc3RhbmNlT2ZzcQB+AAxxgUGndAANYmFzZUNhc2VDbGFzc3NxAH4ADP0rUcN0AAI9PXNxAH4ADPfBcGR0AAVjbG9uZXNxAH4ADCC5afh0AAhQbGF5ZXJJZHNxAH4ADJmuGZZ0AAh0b1N0cmluZ3NxAH4ADJpfXS10AAIhPXNxAH4ADHiREQ50AAhnZXRDbGFzc3NxAH4ADPa8XLN0AAJuZXNxAH4ADOkY5+p0AAJlcXNxAH4ADBLtuuZ0AAIjI3NxAH4ADER9oTF0AAhmaW5hbGl6ZXNxAH4ADEhMZj90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACJjb20udGF2YW50LmNhc2VDbGFzcy5iYXNlQ2FzZUNsYXNzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABRjb20udGF2YW50LmNhc2VDbGFzc3NxAH4AiXQAA2NvbXNxAH4AiXQACmNvbS50YXZhbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3p6SdGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEQ6XHdvcmtzcGFjZVxzY2FsYU1vY2tFeGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHNWDdjA/neTGiwpF2L4vmYZl3YE=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/00pvwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYznIInQABm5vdGlmeXNxAH4ADAqX9C50AAR3YWl0c3EAfgAMnaz4GHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMtbLPRnQADSRhc0luc3RhbmNlT2ZzcQB+AAz6nol4dAAMcHJvZHVjdEFyaXR5c3EAfgAMM4M2XXQABmVxdWFsc3NxAH4ADBS84EB0AAxhc0luc3RhbmNlT2ZzcQB+AAzdpZ/7dAAMc3luY2hyb25pemVkc3EAfgAMzcJbbXQADSRpc0luc3RhbmNlT2ZzcQB+AAyhq9B2dAAXQ291bnRyeUxlYWRlcmJvYXJkRW50cnlzcQB+AAzGPcaKdAAIY2FuRXF1YWxzcQB+AAwK1e1TdAAHY291bnRyeXNxAH4ADCj64EN0AA1wcm9kdWN0UHJlZml4c3EAfgAMekyNV3QACW5vdGlmeUFsbHNxAH4ADLFFJgt0AAxpc0luc3RhbmNlT2ZzcQB+AAybSAeddAAGPGluaXQ+c3EAfgAMmxnVpHQABnBvaW50c3NxAH4ADC5BoPZ0AAI9PXNxAH4ADAM2m/Z0AAVjbG9uZXNxAH4ADIyUc8N0AAYkaW5pdCRzcQB+AAxmy/hKdAAEY29weXNxAH4ADIoVAIV0AAh0b1N0cmluZ3NxAH4ADGFwr0t0AAIhPXNxAH4ADIjR2VZ0AAhnZXRDbGFzc3NxAH4ADDHbGRt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADIsUrkx0AAJuZXNxAH4ADO1aKbF0AAJlcXNxAH4ADD42MT10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwShf6idAACIyNzcQB+AAxE7tmUdAAIZmluYWxpemVzcQB+AAzrHEGjdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwxqO/+dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAsY29tLnRhdmFudC5jYXNlQ2xhc3MuQ291bnRyeUxlYWRlcmJvYXJkRW50cnl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ab3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBXTAAJaW5oZXJpdGVkcQB+AFdMAAdwYXJlbnRzcQB+AFd4cQB+AHRzcQB+AG91cQB+AFIAAAAAc3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ac3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ac3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjXNxAH4AgHEAfgCDc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AAJpb3EAfgCRc3EAfgCAdAAHUHJvZHVjdHEAfgCGc3EAfgCAdAAGRXF1YWxzcQB+AIZzcQB+AIB0AAZPYmplY3RzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMcQB+AJdzcQB+AIx0AARsYW5ncQB+AJFzcQB+AIB0AANBbnlxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFGNvbS50YXZhbnQuY2FzZUNsYXNzc3EAfgCqdAADY29tc3EAfgCqdAAKY29tLnRhdmFudHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXenpJ0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4RDpcd29ya3NwYWNlXHNjYWxhTW9ja0V4YW1wbGVzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSq+g25ypjYZLbo8xuVPRlTSd2FIg==
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpFVpvAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYTLfpnQABm5vdGlmeXNxAH4ADGeuH490AAZ3aW5uZXJzcQB+AAw7NXUadAAEd2FpdHNxAH4ADAEJj8B0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADByZ8eJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMPaKn+3QADHByb2R1Y3RBcml0eXNxAH4ADBINdIh0AAZlcXVhbHNzcQB+AAyB32KAdAALTWF0Y2hyZXN1bHRzcQB+AAwcC9imdAAMYXNJbnN0YW5jZU9mc3EAfgAMwHbTEXQADHN5bmNocm9uaXplZHNxAH4ADJlaVPt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMaQwPt3QACGNhbkVxdWFsc3EAfgAMHo5j9XQADXByb2R1Y3RQcmVmaXhzcQB+AAxGU6KFdAAFbG9zZXJzcQB+AAx86rEXdAAJbm90aWZ5QWxsc3EAfgAM2zu8PnQADGlzSW5zdGFuY2VPZnNxAH4ADEmvWmB0AAY8aW5pdD5zcQB+AAxQVAw8dAACPT1zcQB+AAxh4Sz0dAAFY2xvbmVzcQB+AAy5oDLYdAAGJGluaXQkc3EAfgAMrIQk7HQABGNvcHlzcQB+AAyi4N25dAAIdG9TdHJpbmdzcQB+AAyeJsqpdAACIT1zcQB+AAxItl3JdAAIZ2V0Q2xhc3NzcQB+AAz2iGBydAAOY29weSRkZWZhdWx0JDFzcQB+AAza+5crdAACbmVzcQB+AAxpuV53dAACZXFzcQB+AAwX7tzpdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMFSjuxHQAAiMjc3EAfgAMJ7SJwnQACGZpbmFsaXplc3EAfgAM9v0nw3QADnByb2R1Y3RFbGVtZW50c3EAfgAM1rDvd3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIGNvbS50YXZhbnQuY2FzZUNsYXNzLk1hdGNocmVzdWx0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB0c3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIBxAH4Ag3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAACaW9xAH4AkXNxAH4AgHQAB1Byb2R1Y3RxAH4AhnNxAH4AgHQABkVxdWFsc3EAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCXc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgCAdAADQW55cQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABRjb20udGF2YW50LmNhc2VDbGFzc3NxAH4AqnQAA2NvbXNxAH4AqnQACmNvbS50YXZhbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3p6SdGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEQ6XHdvcmtzcGFjZVxzY2FsYU1vY2tFeGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqMZFLV8IukekP1u3wX2kthCocno=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4csMJQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDXVlYHQABm5vdGlmeXNxAH4ADAgeuUx0AAZQbGF5ZXJzcQB+AAy1f8qddAAEd2FpdHNxAH4ADDnTEJZ0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADDKRC2x0AA0kYXNJbnN0YW5jZU9mc3EAfgAMUpO0gXQADHByb2R1Y3RBcml0eXNxAH4ADAW+wKV0AAZlcXVhbHNzcQB+AAz49PV/dAAMYXNJbnN0YW5jZU9mc3EAfgAME2RtoXQADHN5bmNocm9uaXplZHNxAH4ADCEtS/B0AA0kaXNJbnN0YW5jZU9mc3EAfgAMCRPcHXQACGNhbkVxdWFsc3EAfgAMVfMG63QAB2NvdW50cnlzcQB+AAwAs75HdAANcHJvZHVjdFByZWZpeHNxAH4ADN1L0Md0AAlub3RpZnlBbGxzcQB+AAynU80ndAAMaXNJbnN0YW5jZU9mc3EAfgAM8QLgfXQACG5pY2tOYW1lc3EAfgAM/TK2VnQABjxpbml0PnNxAH4ADM8tMiN0AAI9PXNxAH4ADBdujv50AAVjbG9uZXNxAH4ADGxVYip0AAYkaW5pdCRzcQB+AAxyWOIPdAAIcGxheWVySWRzcQB+AAxJgTELdAAOY29weSRkZWZhdWx0JDNzcQB+AAywjs+5dAAEY29weXNxAH4ADC759xJ0AAh0b1N0cmluZ3NxAH4ADLUgmJV0AAIhPXNxAH4ADEoKOnB0AAhnZXRDbGFzc3NxAH4ADLkXsvx0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADHP0lHh0AAJuZXNxAH4ADO8R8kt0AAJlcXNxAH4ADGnVEiJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxrhAKrdAACIyNzcQB+AAzSt+4idAAIZmluYWxpemVzcQB+AAxYsWwndAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwG3J3wdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAbY29tLnRhdmFudC5jYXNlQ2xhc3MuUGxheWVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB4c3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJFzcQB+AIRxAH4Ah3NxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAACaW9xAH4AlXNxAH4AhHQAB1Byb2R1Y3RxAH4AinNxAH4AhHQABkVxdWFsc3EAfgCKc3EAfgCEdAAGT2JqZWN0c3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHEAfgCbc3EAfgCQdAAEbGFuZ3EAfgCVc3EAfgCEdAADQW55cQB+AIp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABRjb20udGF2YW50LmNhc2VDbGFzc3NxAH4ArnQAA2NvbXNxAH4ArnQACmNvbS50YXZhbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3p6SdGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEQ6XHdvcmtzcGFjZVxzY2FsYU1vY2tFeGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUe2V3krlmPmNDBMNcZW4Qv27BBLE=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsv/8zwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhQAJJ3QABm5vdGlmeXNxAH4ADJEBI8J0AAR3YWl0c3EAfgAMmlWQsnQADSRhc0luc3RhbmNlT2ZzcQB+AAx4JH2EdAAGZXF1YWxzc3EAfgAMM4+1+HQADGFzSW5zdGFuY2VPZnNxAH4ADEnh3fJ0ABNNYXRjaFJlc3VsdE9ic2VydmVyc3EAfgAMU3UM3XQADHN5bmNocm9uaXplZHNxAH4ADBG8VuN0AA0kaXNJbnN0YW5jZU9mc3EAfgAM7Q//+3QACW5vdGlmeUFsbHNxAH4ADF+RJ9l0AAxpc0luc3RhbmNlT2ZzcQB+AAywDQqldAAGPGluaXQ+c3EAfgAMz98WpnQAAj09c3EAfgAMrEaH3nQABWNsb25lc3EAfgAM6d9sJHQACHRvU3RyaW5nc3EAfgAMCOXHf3QAAiE9c3EAfgAMWXqnwHQACGdldENsYXNzc3EAfgAMJ4VMh3QAAm5lc3EAfgAMMsXt6HQAEXJlY29yZE1hdGNoUmVzdWx0c3EAfgAM+RTBVnQAAmVxc3EAfgAMcleSG3QAAiMjc3EAfgAMRqX2a3QACGZpbmFsaXplc3EAfgAMRmVbr3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJ2NvbS50YXZhbnQuZ2FtZXBsYXkuTWF0Y2hSZXN1bHRPYnNlcnZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANjb21zcQB+AIl0AApjb20udGF2YW50c3EAfgCJdAATY29tLnRhdmFudC5nYW1lcGxheXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXenpJ0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4RDpcd29ya3NwYWNlXHNjYWxhTW9ja0V4YW1wbGVzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTDBM4PmeM0ZxI3TcLHiC//nhXoKQ==
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtY7pMQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNvvoT3QABm5vdGlmeXNxAH4ADJZTOAd0AAR3YWl0c3EAfgAMSbLiYHQADSRhc0luc3RhbmNlT2ZzcQB+AAxW+WJrdAAGZXF1YWxzc3EAfgAMJG+L3HQADGFzSW5zdGFuY2VPZnNxAH4ADKWakUp0AAxzeW5jaHJvbml6ZWRzcQB+AAzWxTbIdAATQ291bnRyeUxlYXJkZXJCb2FyZHNxAH4ADJwA4Fl0AA0kaXNJbnN0YW5jZU9mc3EAfgAM12DLlXQACW5vdGlmeUFsbHNxAH4ADGWDjQN0AAxpc0luc3RhbmNlT2ZzcQB+AAwks/EudAAUYWRkVmljdG9yeUZvckNvdW50cnlzcQB+AAwn4iVNdAACPT1zcQB+AAzxkKLPdAAFY2xvbmVzcQB+AAyorFbNdAAPZ2V0VG9wQ291bnRyaWVzc3EAfgAMRRZj73QACHRvU3RyaW5nc3EAfgAMB8MnmHQAAiE9c3EAfgAMY6+evHQACGdldENsYXNzc3EAfgAM+GryQnQAAm5lc3EAfgAMRQyfCHQAAmVxc3EAfgAMTwk/GHQAAiMjc3EAfgAM8kv9B3QACGZpbmFsaXplc3EAfgAMhvCSJ3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAJWNvbS50YXZhbnQudHJhaXRzLkNvdW50cnlMZWFyZGVyQm9hcmR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AW3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGBzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AX3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AeHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXNxAH4AbHQAA0FueXNxAH4AcHNxAH4Ac3VxAH4AdgAAAAJzcQB+AHh0AAVzY2FsYXEAfgB/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADY29tc3EAfgCJdAARY29tLnRhdmFudC50cmFpdHNzcQB+AIl0AApjb20udGF2YW50c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd6eknRnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhEOlx3b3Jrc3BhY2Vcc2NhbGFNb2NrRXhhbXBsZXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHW1WFpOf/0K0ocYJGVUKNlAaupY
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbR8NWAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQaGPa3QABm5vdGlmeXNxAH4ADI50qsN0AAR3YWl0c3EAfgAM809guHQADSRhc0luc3RhbmNlT2ZzcQB+AAydIF95dAAGZXF1YWxzc3EAfgAMmO7ZsnQADGFzSW5zdGFuY2VPZnNxAH4ADOtd/5d0AAxzeW5jaHJvbml6ZWRzcQB+AAwqZFKVdAANJGlzSW5zdGFuY2VPZnNxAH4ADFDaNXB0AAlub3RpZnlBbGxzcQB+AAyVZD5IdAANZ2V0UGxheWVyQnlJZHNxAH4ADNOF6Pp0AAxpc0luc3RhbmNlT2ZzcQB+AAw75o/OdAAOUGxheWVyRGF0YWJhc2VzcQB+AAyUxjMLdAACPT1zcQB+AAzSUD3qdAAFY2xvbmVzcQB+AAxSH2K/dAAIdG9TdHJpbmdzcQB+AAxKd87ydAACIT1zcQB+AAx74tSedAAIZ2V0Q2xhc3NzcQB+AAzbImArdAACbmVzcQB+AAxJzCMvdAACZXFzcQB+AAzP/NdudAACIyNzcQB+AAznOZ8zdAAIZmluYWxpemVzcQB+AAweXmxRdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAgY29tLnRhdmFudC50cmFpdHMuUGxheWVyRGF0YWJhc2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ad3NxAH4AanQAA0FueXNxAH4AbnNxAH4AcXVxAH4AdAAAAAJzcQB+AHZ0AAVzY2FsYXEAfgB9dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADY29tc3EAfgCHdAARY29tLnRhdmFudC50cmFpdHNzcQB+AId0AApjb20udGF2YW50c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd6eknRnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhEOlx3b3Jrc3BhY2Vcc2NhbGFNb2NrRXhhbXBsZXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOZy/dLqnQpCuceSILeKtgjJGCsJ
+external apis:
+0 items
+source infos:
+7 items
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala -> 
+AAAAAAAAAAA=
+D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXenpJ0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XHdvcmtzcGFjZVxzY2FsYU1vY2tFeGFtcGxlc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

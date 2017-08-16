@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging D:\workspace\scalaMockExamples\target\scala-2.11\scalamockexamples_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\baseCaseClass.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\tavant\traits\CountryLearderBoard.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\CountryLearderBoard.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant[0m
+[0m[[0mdebug[0m] [0m	com\tavant\traits\PlayerDatabase.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits\PlayerDatabase.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\CountryLeaderboardEntry.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\CountryLeaderboardEntry$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\CountryLeaderboardEntry$.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\baseCaseClass$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\baseCaseClass$.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\Matchresult$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult$.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\Matchresult.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Matchresult.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\Player.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\gameplay\MatchResultObserver.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\gameplay\MatchResultObserver.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\caseClass\Player$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\caseClass\Player$.class[0m
+[0m[[0mdebug[0m] [0m	com\tavant\gameplay[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\gameplay[0m
+[0m[[0mdebug[0m] [0m	com\tavant\traits[0m
+[0m[[0mdebug[0m] [0m	  D:\workspace\scalaMockExamples\target\scala-2.11\classes\com\tavant\traits[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

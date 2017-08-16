@@ -1,0 +1,92 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala, D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 7 Scala sources to D:\workspace\scalaMockExamples\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 582f9d20, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes;C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\workspace\scalaMockExamples\target\scala-2.11\classes;C:\Users\sourav.kumar\.ivy2\cache\org.scalamock\scalamock-scalatest-support_2.11\jars\scalamock-scalatest-support_2.11-3.5.0.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scalamock\scalamock-core_2.11\jars\scalamock-core_2.11-3.5.0.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-3.0.1.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-3.0.1.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar;C:\Users\sourav.kumar\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.22879862 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, winner, wait, copy$default$2, $asInstanceOf, productArity, equals, Matchresult, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, loser, notifyAll, isInstanceOf, <init>, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala: Set(winner, Matchresult, <init>)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\baseCaseClass.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, Country, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, baseCaseClass, ==, clone, PlayerId, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\MatchResult.scala: Set(asInstanceOf, isInstanceOf, baseCaseClass, ==, PlayerId, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala: Set(Country, asInstanceOf, isInstanceOf, baseCaseClass, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala: Set(Country, asInstanceOf, isInstanceOf, baseCaseClass, ==, PlayerId, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala: Set(Country, baseCaseClass, PlayerId)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, CountryLearderBoard, $isInstanceOf, notifyAll, isInstanceOf, addVictoryForCountry, ==, clone, getTopCountries, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala: Set(CountryLearderBoard, addVictoryForCountry)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\Player.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, Player, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, country, productPrefix, notifyAll, isInstanceOf, nickName, <init>, ==, clone, $init$, playerId, copy$default$3, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala: Set(Player)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala: Set(Player, country, <init>)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\PlayerDatabase.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, getPlayerById, isInstanceOf, PlayerDatabase, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala: Set(getPlayerById, PlayerDatabase)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\caseClass\CountryLeaderBoardEntry.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, CountryLeaderboardEntry, canEqual, country, productPrefix, notifyAll, isInstanceOf, <init>, points, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of D:\workspace\scalaMockExamples\src\main\scala\com\demo\traits\CountryLearderBoard.scala: Set(CountryLeaderboardEntry)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\workspace\scalaMockExamples\src\main\scala\com\demo\gameplay\MatchResultObserver.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, MatchResultObserver, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, recordMatchResult, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
